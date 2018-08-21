@@ -88,8 +88,8 @@
 
     exports.MyButtonComponent = MyButtonComponent;
     exports.MyInputComponent = MyInputComponent;
+    exports.MySelectComponent = MySelectComponent;
     exports.UiComponentsModule = UiComponentsModule;
-    exports.ɵa = MySelectComponent;
 
     Object.defineProperty(exports, '__esModule', { value: true });
 
